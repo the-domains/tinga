@@ -1,14 +1,14 @@
-layout_spectrum: 0.8276878041215241
-typography_spectrum: 0.3389588603749871
+layout_spectrum: 0.2846700481604785
+typography_spectrum: 0.7219548407010734
 color:
-  brandStrength: 0.6537975005339831
-  lightness: 0.987081244122237
-  saturation: 0.156638375017792
-  rhythmicContrast: 0.3369650770910084
+  brandStrength: 0.9151665968820453
+  lightness: 0.5538386243861169
+  saturation: 0.860901469597593
+  rhythmicContrast: 0.19521079794503748
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: TINGA
